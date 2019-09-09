@@ -36,6 +36,7 @@ export default {
         bottom: 0;
         background: green;
         border-radius: 12px;
+        transition: all 0.2s ease;
         
     }
 </style>
